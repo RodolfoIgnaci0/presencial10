@@ -17,10 +17,6 @@ Algoritmo sin_titulo
 		alto <- num3
 	Fin Si
 	
-	
-	
-	
-	
 	escribir "mayor ",alto
 	
 	
